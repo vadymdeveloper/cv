@@ -1,0 +1,88 @@
+body {
+    background: rgb(255, 229, 229);
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+}
+
+.contact {
+    background-color: rgb(254, 255, 168);
+    padding: 10px;
+    border: 5px solid rgb(254, 255, 168);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.contactlist {
+    list-style: none;
+}
+
+.main {
+    background-color: rgb(181, 255, 195);
+    padding: 15px;
+    border: 5px solid rgb(181, 255, 195);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.education {
+    background-color: rgb(181, 255, 195);
+    padding: 15px;
+    border: 2px solid rgb(181, 255, 195);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.hobbies {
+    background-color: rgb(181, 255, 195);
+    padding: 15px;
+    border: 2px solid rgb(181, 255, 195);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.languages {
+    background-color: rgb(254, 255, 168);
+    padding: 15px;
+    border: 2px solid rgb(254, 255, 168);
+    border-radius: 15px;
+    margin: 10px; 
+}
+
+.skills {
+    background-color: rgb(144, 244, 255);
+    padding: 15px;
+    border: 2px solid rgb(144, 244, 255);
+    border-radius: 15px;
+    border-radius: 15px;
+    margin: 10px; 
+}
+
+.work {
+    background-color: rgb(144, 244, 255);
+    padding: 15px;
+    border: 2px solid rgb(144, 244, 255);
+    border-radius: 15px;
+    border-radius: 15px;
+    margin: 10px; 
+}
+
+.table {
+    width: auto;
+}
+
+.container {
+    background-color: rgb(255, 229, 229);
+    width: 100%;
+    margin: auto;
+}
+
