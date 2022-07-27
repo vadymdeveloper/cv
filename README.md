@@ -1,2 +1,2 @@
-# cv
-My personal CV
+# CV
+My personal CV.
